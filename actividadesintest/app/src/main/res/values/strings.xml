@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">actividadesintest</string>
+    <string name="atravariablestring">este es el valor de un string XMLS</string>
+</resources>
